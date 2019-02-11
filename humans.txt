@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Janson
+    Milan
 
 # TECHNOLOGY COLOPHON
 
